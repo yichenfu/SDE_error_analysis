@@ -2,4 +2,4 @@ This is my final project for APC 523. The following two notebooks are closely re
 
 `Parallel_mid_point.ipynb`, `Parallel_EM.ipynb`
 
-The rest notebooks are either not related to the final report of the project, or unfinished. 
+The rest notebooks are either not directly related to the final report of the project, or unfinished. 
